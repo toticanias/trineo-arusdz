@@ -1,2 +1,2 @@
-# trineo-arusdz
+# trineo-ar
 ios
